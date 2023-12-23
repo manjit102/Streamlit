@@ -1,0 +1,4 @@
+1.   streamlit==1.29.0
+2.   pandas==2.0.3
+3.   seaborn==0.12.2
+4.   plotly==5.9.0
